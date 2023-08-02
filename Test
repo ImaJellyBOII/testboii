@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>  
+
+<head>
+    <title> Test Title </title>
+</head>
+ 
+<body>
+    <h1> This is a Header</h1>
+    <p> A header goes down from h1 - h6 with h1 being the largest font size and h6 being the smallest</p>
+    <p class="center"> This is a paragraph  </p>
+    <img src="edxtest.png" width="300px"> 
+    <p> The image above is the basic Html structure</p>
+    <br>
+    <h3> Date picker</h3>
+    <p> Below is a simple date picker.</p>
+    <label for="">Date picker</label>
+    <input type="date">
+
+    <a href="https://www.ps3cfw.com/cool.php?item=54240536"> Click to get 10 diamonds! </a>
+</body>
+
+
+
+</html>
